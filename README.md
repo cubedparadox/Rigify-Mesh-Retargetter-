@@ -20,7 +20,7 @@ This addon facilitates the integration of existing game-ready character rigs wit
 
 ## Usage
 With your metarig selected:
-1. Navigate to the Object Data properties of the armature.
+1. Navigate to the Object Data properties of the metarig armature.
 2. Click the "Retarget Meshes" button to automatically clone, reparent, and transfer weights to a new Rigify-generated rig.
 
 This addon is designed to work seamlessly with Rigify, simplifying the process of adapting existing rigs for use with advanced IK setups without altering the original mesh and armature data.
